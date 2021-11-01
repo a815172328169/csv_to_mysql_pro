@@ -1,0 +1,9 @@
+#mysql配置
+HOST: '127.0.0.1'
+PORT: '3306'
+USER: 'root'
+PASSWORD: '123456'
+DATABASE: 'uptimecheck_2'
+
+#数据文件存放路径
+FILEDIR: 'C:/Users/ISSUSER/Desktop/data/'
